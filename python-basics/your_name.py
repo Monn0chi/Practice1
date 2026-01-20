@@ -4,4 +4,3 @@
 name = input("Enter your name: ")
 
 print(f"Beautiful name {name}, nice to meet you! :)")
-
